@@ -14,7 +14,7 @@ $(document).ready(function() {
 	$(".deskripsi").html(deskripsi);
 	var harga = $(".harga").html();
 	$(".price").html(harga);
-	$(".hGfzU").html("Support By : <a href='http://www.oketemplate.com'>OKEtemplate</a>");
+	$(".hGfzU").html("Support By : <a href='http://www.universeknalpot.com'>Admin</a>");
 	$('a[href=#top]').click(function(){
         $('html, body').animate({scrollTop:0}, 'slow');
         return false;
